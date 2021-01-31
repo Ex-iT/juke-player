@@ -2,7 +2,9 @@ module.exports = {
   extends: [
     'stylelint-config-standard'
   ],
-  // add your custom config here
-  // https://stylelint.io/user-guide/configuration
-  rules: {}
+  rules: {
+    "selector-list-comma-newline-after": null,
+    "value-list-comma-newline-after": null,
+    "declaration-colon-newline-after": null
+  }
 }
