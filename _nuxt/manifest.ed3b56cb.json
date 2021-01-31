@@ -1,0 +1,10 @@
+{
+  "name": "juke-player",
+  "short_name": "juke-player",
+  "description": "## Build Setup",
+  "icons": [],
+  "start_url": "/juke-player/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
